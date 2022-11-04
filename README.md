@@ -5,7 +5,7 @@
 Install with the following command:
 
 ```
-npm install --save BeardR6S-js-footer
+npm i beardr6s-js-footer
 ```
 
 Add to a JavaScript Project with the following code:
